@@ -1,27 +1,22 @@
-# Instagram Profile Analyzer
+# 📈 Instagram Profile Analyzer
 
-Analyze Instagram profiles and provide insights on engagement and profile quality.
+> Analyze your profile like a creator.
 
 ## Features
 
-- Profile Analysis
-- Engagement Score
-- Profile Strength
-- Improvement Suggestions
+📊 Engagement Score
+
+🔥 Profile Rating
+
+📈 Growth Suggestions
+
+🎯 Content Improvement Tips
 
 ## Tech Stack
 
-- HTML
-- CSS
-- JavaScript
+HTML • CSS • JavaScript
 
-## Future Features
-
-- Real API Integration
-- AI Suggestions
-- Growth Tracking
-
-## Developer
+## Built By
 
 Harish Kumar
 
